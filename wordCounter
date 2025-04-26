@@ -1,0 +1,9 @@
+word_counter/
+│
+├── app.py
+├── requirements.txt
+├── README.md  (optional)
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
