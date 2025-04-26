@@ -7,3 +7,10 @@ word_counter/
 │   └── index.html
 ├── static/
 │   └── style.css
+
+
+pip install -r requirements.txt
+
+python app.py
+
+
